@@ -1,7 +1,7 @@
 <h2 align="centre">Bot duniya Music Player</h2>
 
-<p align="center">
-  <img src="https://telegra.ph/file/55202a2a5dd038bdbebea.jpg">
+<p align="center"
+  <img src="https://telegra.ph/file/af405bc022918296ca39b.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
